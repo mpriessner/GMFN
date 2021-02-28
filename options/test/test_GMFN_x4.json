@@ -12,7 +12,7 @@
 
     "datasets": {
         "test_set1": {
-            "mode": "LR", # LR,HR
+            "mode": "LR", 
             "dataroot_HR": "./results/HR/Set5/x4",
             "dataroot_LR": "./results/LR/LRBI/Set5/x4",
             "data_type": "img"
